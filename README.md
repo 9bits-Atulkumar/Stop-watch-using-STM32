@@ -28,5 +28,10 @@ INTRODUCTION
 -Status led
    - Anode=PA15
    - GND = GND
-  
+### Output
+   ![pic1](https://user-images.githubusercontent.com/78437677/110235739-ae6a0c80-7f57-11eb-88e8-12a3e388d9bc.jpg)
+![pic2](https://user-images.githubusercontent.com/78437677/110235741-b0cc6680-7f57-11eb-855f-61dd0c6f3036.jpg)
+![pic3](https://user-images.githubusercontent.com/78437677/110235743-b4f88400-7f57-11eb-93a6-2e8e138f40cd.jpg)
+![pic4](https://user-images.githubusercontent.com/78437677/110235744-b88c0b00-7f57-11eb-8a8e-4cf92ed8fa78.jpg)
+
  
