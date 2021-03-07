@@ -21,8 +21,12 @@ INTRODUCTION
    - PB6=G
    -3.3V to anode
 - Ultra sonic sensor 
-   -Vcc=5v
-   -GND =GND
-   -
+   - Vcc=5v
+   - GND =GND
+   - Trig=PB8
+   - Echo=PB9
+-Status led
+   - Anode=PA15
+   - GND = GND
   
  
