@@ -1,5 +1,5 @@
 # Stop-watch-using-STM32
 
-#Pin configuration / 
+###Pin configuration 
  Left 7 segment display
  PA0=
